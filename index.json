@@ -6,7 +6,10 @@
 	{ "pubkey": "npub124rja8qp7dartasr9wdh3kk78phxunzhmq8ar5ryd2anj2qwtcnsz3tuhs", "hierarchy": 1 }
     ],
     "messages": [
-        "teste"
+        {
+		"type": "error",
+		"message": "error only test"
+	}
     ]
 }
 
