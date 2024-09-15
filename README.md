@@ -33,4 +33,4 @@ Alerts and messages to be displayed to users about the app and any announcements
 
 #### To retrieve the information, simply execute a GET request as shown in the example with curl below
 
-` curl https://emptioapp.github.io/emptiopubdata/index.json ` 
+` curl https://misesdev.github.io/emptiopubdata/index.json ` 
